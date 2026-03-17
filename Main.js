@@ -9,5 +9,5 @@ console.log("Bem vindo ao GitHub!")
 // git commit: Salva as mudanças no repositório local
 
 function saudacao(){
-    console.log("Olá")
+    console.log("Banana")
 }
