@@ -15,5 +15,3 @@ function saudacao(){
 console.log("A soma de 2 e 2 é: " + soma(2, 2))
 
 console.log("affgfsfg")
-
-console.log("affgfsfg")
